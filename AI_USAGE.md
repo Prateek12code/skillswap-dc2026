@@ -15,7 +15,7 @@ ChatGPT
 
 ## AI-assisted output
 
-ChatGPT assisted with JavaScript/Supabase code, database schema and policies, matching logic, messaging flow, WebRTC connection logic, and design suggestions.
+ChatGPT assisted with JavaScript/Supabase code, database schema and policies, matching logic, messaging flow, WebRTC connection logic, and design suggestion.
 
 ## Student contribution
 
